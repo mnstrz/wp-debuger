@@ -1,6 +1,6 @@
 <?php
 /**
-* Plugin Name: Debuger
+* Plugin Name: WP Debuger
 * Plugin URI: https://github.com/mnstrz/wp-debuger
 * Description: Debuger for developer.
 * Version: 1.0.0
