@@ -1,3 +1,16 @@
 ### Wordpress debuger for developer
 
-Using Symfony VarDumper
+Using Dependencies
+ - Symfony VarDumper
+
+## How to use
+
+```
+<?php
+	// dump and die
+	dd($var);
+
+	// dump
+	dump($var);
+?>
+```
